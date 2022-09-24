@@ -1,0 +1,20 @@
+.container{
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   border: white 3px solid;
+    
+}
+.cart{
+    border: #416441 solid 2px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:15px;
+    margin: 10px;
+}
